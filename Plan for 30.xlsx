@@ -1,5 +1,11 @@
-Day	Program Index
-1	Max of 3 numbers
-1	EvenOrOdd
-1	Fibonacci Series
-1	Factorial of N
+Day	Topic	Program Index
+1	Basics	Max of 3 numbers
+1	Basics	EvenOrOdd
+1	Basics	Fibonacci Series
+1	Basics	Factorial of N
+2	Basics	Is prime
+2	Basics	Palindrome
+2	Basics	Sum of N natural numbers
+2	Arrays	Largest Number in array
+2	Arrays	Second largest number in array
+2	Arrays	Reversing an array
