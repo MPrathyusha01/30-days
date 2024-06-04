@@ -12,7 +12,7 @@ public class HashMapExample {
 		// using standard put() method
 		map.put("vishal", 10);
 		map.put("sachin", 30);
-		//map.put("vaibhav", 20);
+		map.put("vaibhav", 20);
 
 		// Print size and content of the Map
 		System.out.println("Size of map is:- "
